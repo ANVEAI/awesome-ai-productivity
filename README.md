@@ -3,6 +3,8 @@
 
 ## Tools
 
+[Remio](https://remio.ai) Local-first AI memory and personal knowledge base. Parse files, webpages, recordings, emails, messages, images, and notes into local indexes for faster personal-context retrieval.
+
 [VoiceForms](https://voiceforms.anvevoice.app) AI-powered form filling via voice. Speak instead of type. 3x faster.
 
 ## Contributing
