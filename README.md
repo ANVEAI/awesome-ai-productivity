@@ -3,6 +3,8 @@
 
 ## Tools
 
+[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 만화 일괄·맞춤 번역 및 온라인 페이지 편집 도구. Freemium.
+
 [VoiceForms](https://voiceforms.anvevoice.app) AI-powered form filling via voice. Speak instead of type. 3x faster.
 
 ## Contributing
