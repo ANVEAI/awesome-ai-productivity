@@ -3,6 +3,7 @@
 
 ## Tools
 
+[DisconfirmAI](https://disconfirmai.com/en) Investment research and reading platform for the AI era; find disconfirming evidence before you build conviction.
 [VoiceForms](https://voiceforms.anvevoice.app) AI-powered form filling via voice. Speak instead of type. 3x faster.
 
 ## Contributing
