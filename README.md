@@ -3,6 +3,7 @@
 
 ## Tools
 
+[ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) Free Chrome extension for timed ChatGPT continuation, per-tab controls, and long-chat context handoff.  
 [VoiceForms](https://voiceforms.anvevoice.app) AI-powered form filling via voice. Speak instead of type. 3x faster.
 
 ## Contributing
